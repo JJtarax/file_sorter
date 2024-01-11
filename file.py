@@ -33,12 +33,13 @@ elif user == "Organizer":
     "sql": "sql", "sqlite3": "sql", # SQL
     "exe": "programs", "msi": "programs", "dmg" : "Programs", # Programs
     "pdf": "pdf", #pdf
-    "xlsx": "excel", "csv": "excel", # excel
     "rar": "archive", "zip": "archive", "gz": "archive", "tar": "archive", # Archive
-    "docx": "text", "doc" : "text", "txt": "text",
+    "txt": "text",
     "torrent": "torrent", "torr" : "torrent", # torrent 
     "ipynb": "python", "py": "python", # python
+    "xlsx": "excel", "csv": "excel", # excel
     "pptx": "powerpoint", "ppt": "powerpoint", # powerpoint
+    "doc": "word", "dox":"word", #word
     "mp3": "audio", "wav": "audio", # audio
     "mp4": "video", "m3u8": "video", "webm": "video", "ts": "video", "mkv" : "video", "m4a" : "video", # Video
     "json": "json", # json
